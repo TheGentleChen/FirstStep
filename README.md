@@ -3,7 +3,7 @@
 ### 包括的东西
 - 算法
 - 数据结构
-- 自制的一个Shell 'Handsome Shell'
+- 自制的一个Shell `Handsome Shell`
 - 一些小游戏
 - CPP标准库练习
 - 等等
